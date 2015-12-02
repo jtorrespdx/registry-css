@@ -8,7 +8,7 @@ on `https://www.learnhowtoprogram.com/css-fundamentals/grumpy-cat-landing-pages-
 
 ##Setup for OSX
 
-1. Clone this repository using the command `git clone https://github.com/anniehoogendoorn/css-meme.git`.
+1. Clone this repository using the command `git clone https://github.com/jtorrespdx/registry-css.git`.
 2. Open the `index.html` file in your browser
 
 
